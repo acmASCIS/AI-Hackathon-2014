@@ -1,0 +1,120 @@
+$RESOURCES{
+@ID = 1
+@NAME = Desert.jpg
+@PATH = Tileset/Desert.jpg
+@ID = 2
+@NAME = Desert-Sand.jpg
+@PATH = Tileset/Desert-Sand.jpg
+@ID = 3
+@NAME = Grass.jpg
+@PATH = Tileset/Grass.jpg
+@ID = 4
+@NAME = Grass-Flower.jpg
+@PATH = Tileset/Grass-Flower.jpg
+@ID = 5
+@NAME = Grass-Transparent.jpg
+@PATH = Tileset/Grass-Transparent.jpg
+@ID = 6
+@NAME = Lily-bad.png
+@PATH = Tileset/Lily-bad.png
+@ID = 7
+@NAME = Mushroom-brown.png
+@PATH = Tileset/Mushroom-brown.png
+@ID = 8
+@NAME = Mushroom-red.png
+@PATH = Tileset/Mushroom-red.png
+@ID = 9
+@NAME = Rocks.png
+@PATH = Tileset/Rocks.png
+@ID = 10
+@NAME = Rock-Sandy.png
+@PATH = Tileset/Rock-Sandy.png
+@ID = 11
+@NAME = Water.jpg
+@PATH = Tileset/Water.jpg
+@ID = 12
+@NAME = Water-Land-B.jpg
+@PATH = Tileset/Water-Land-B.jpg
+@ID = 13
+@NAME = Water-Land-BL.jpg
+@PATH = Tileset/Water-Land-BL.jpg
+@ID = 14
+@NAME = Water-Land-BR.jpg
+@PATH = Tileset/Water-Land-BR.jpg
+@ID = 15
+@NAME = Water-Land-L.jpg
+@PATH = Tileset/Water-Land-L.jpg
+@ID = 16
+@NAME = Water-Land-R.jpg
+@PATH = Tileset/Water-Land-R.jpg
+@ID = 17
+@NAME = Water-Land-T.jpg
+@PATH = Tileset/Water-Land-T.jpg
+@ID = 18
+@NAME = Water-Land-TL.jpg
+@PATH = Tileset/Water-Land-TL.jpg
+@ID = 19
+@NAME = Water-Land-TR.jpg
+@PATH = Tileset/Water-Land-TR.jpg
+@ID = 20
+@NAME = Water-Shine.jpg
+@PATH = Tileset/Water-Shine.jpg
+}
+$MAPS{
+START_MAP_NO#0
+@NAME = NewMap0
+@TILE_X = 32
+@TILE_Y = 32
+@WIDTH = 800
+@HEIGHT = 600
+@COLLISION = False
+#DATA
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1 -1
+1 -1 1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 -1 -1 -1 -1 -1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+#END_DATA
+END_MAP_NO#0
+START_MAP_NO#1
+@NAME = NewMap1
+@TILE_X = 32
+@TILE_Y = 32
+@WIDTH = 800
+@HEIGHT = 600
+@COLLISION = True
+#DATA
+-2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+-2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -2
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+#END_DATA
+END_MAP_NO#1
+}
