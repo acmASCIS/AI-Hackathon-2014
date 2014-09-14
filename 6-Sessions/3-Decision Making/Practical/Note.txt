@@ -1,0 +1,2 @@
+1-Put 1 Health Power Up
+2-Use acmASCIS.dll for the second tank
